@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eewee-flattr\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-05 15:20+0100\n"
+"PO-Revision-Date: 2013-01-05 15:20+0100\n"
+"Last-Translator: Michael <contact@eewee.fr>\n"
+"Language-Team: Michael <contact@eewee.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;_c;_x;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: /Users/michael/Desktop/eewee_flattr\n"
+
+#: /Users/michael/Desktop/eewee_flattr/view/manual.php:19
+#: /Users/michael/Desktop/eewee_flattr/view/manual.php:26
+msgid "Shortcode : Widget"
+msgstr "Shortcode : Widget"
+
+#~ msgid "Enabled"
+#~ msgstr "Etat"
+
+#~ msgid "Method used"
+#~ msgstr "Méthode utilisée"
+
+#~ msgid "Site"
+#~ msgstr "Site"
+
+#~ msgid "Creator"
+#~ msgstr "Créateur"
+
+#~ msgid "Update"
+#~ msgstr "Mise à jour"
+
+#~ msgid "xxx"
+#~ msgstr "xxx"
+
+#~ msgid "yyy"
+#~ msgstr "yyy"
+
+#~ msgid "Pinterest widget"
+#~ msgstr "Pinterest widget"
+
+#~ msgid "Position"
+#~ msgstr "Position"
+
+#~ msgid "Header"
+#~ msgstr "Entete"
+
+#~ msgid "Footer"
+#~ msgstr "Pied de page"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Image Width"
+#~ msgstr "Largeur image"
+
+#~ msgid "Min:60. Leave blank for 92"
+#~ msgstr "Min:60. Laisser vide pour 92"
+
+#~ msgid "Board Height"
+#~ msgstr "Hauteur zone"
+
+#~ msgid "Min:60. Leave blank for 175"
+#~ msgstr "Min:60. Laisser vide pour 175"
+
+#~ msgid "Board Width"
+#~ msgstr "Largeur zone"
+
+#~ msgid "Min:130. Leave blank for auto"
+#~ msgstr "Min:130. Laisser vide pour automatique"
+
+#~ msgid "Save"
+#~ msgstr "Enregistrer"
+
+#~ msgid "Pinterest URL"
+#~ msgstr "Pinterest URL"
+
+#~ msgid "Pinterest Shortcode"
+#~ msgstr "Pinterest Shortcode"
+
+#~ msgid "Example pinterest url"
+#~ msgstr "Exemple d'url pinterest"
+
+#~ msgid "Pinterest profil"
+#~ msgstr "Profil Pinterest"
+
+#~ msgid "Pinterest table"
+#~ msgstr "Table Pinterest"
+
+#~ msgid "image width"
+#~ msgstr "Largeur image"
+
+#~ msgid "Bloc width"
+#~ msgstr "Largeur zone"
+
+#~ msgid "Bloc height"
+#~ msgstr "Hauteur zone"
+
+#~ msgid "Buy with PayPal"
+#~ msgstr "Acheter via Paypal"
